@@ -74,11 +74,8 @@ footer {
   }
 
   .step-box {
-    margin: 30px auto;
+    width: 90%;
+    margin: 20px;
   }
-
-  .step-box:last-child {
-     margin: 30px auto;
-  }
-
+  
 }
